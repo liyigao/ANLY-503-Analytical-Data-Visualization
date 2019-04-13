@@ -1,11 +1,12 @@
 # ANLY 503 Analytical Data Visualization
 
-Assignments and Projects Repo for Georgetown University Fall 2018 ANLY 503 Analytical Data Visualization
+Assignments Repo and Project/Exam website for Georgetown University Fall 2018 ANLY 503 Analytical Data Visualization
 
-Skills used in thsi course:  
+Programming Skills used in this course:  
 **R**: `ggplot2`, `shiny`, `plotly`, `networkD3`, `leaflet`  
 **Python 3**: `matplotlib`, `seaborn`, `plotly`, `Bokeh`, `wordcloud`  
 **Tableau**
+**html*
 
 ## Individual Homework Assignments
 
